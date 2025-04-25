@@ -15,3 +15,6 @@
 Train.csv - тренировочный набор данных <br />
 Test.csv - тестовый набор данных <br />
 submit.csv - пример формата файла предсказаний (поля: id, score)
+
+# Kaggle competition link
+https://www.kaggle.com/competitions/vk-predict-cmc-hackathon
